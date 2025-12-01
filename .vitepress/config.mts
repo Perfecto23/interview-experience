@@ -11,9 +11,8 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
 
-  // TODO: Replace with your actual domain
   sitemap: {
-    hostname: 'https://example.com',
+    hostname: 'https://interview-experience.itmirror.top/',
   },
 
   head: [
@@ -22,7 +21,11 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/logo.png', // Ensure logo.png exists in docs/public if used, or remove
+    logo: {
+      light: '/logo_light.svg',
+      dark: '/logo_dark.svg'
+    },
+
     nav: [
       { text: '首页', link: '/' },
       { text: '个人博客', link: 'https://blog.itmirror.top' },
