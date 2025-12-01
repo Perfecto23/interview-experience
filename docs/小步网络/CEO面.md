@@ -1,3 +1,12 @@
+---
+title: 小步网络CEO面 - AI Agent基建面试经验
+description: 2025年小步网络CEO面试经验，讨论AI工具使用、JS/TS异步机制、事件循环设计、Overlay组件设计等技术话题
+head:
+  - - meta
+    - name: keywords
+      content: 小步网络面试,CEO面试,AI工具,异步机制,组件设计
+---
+
 # CEO面
 
 > 日期：2025.11.18

@@ -1,3 +1,12 @@
+---
+title: 深度赋智CEO面 - MetaGPT创始人面试经验
+description: 2025年深度赋智(MetaGPT)CEO面试经验，与创始人深度交流AI编程、开源贡献、IM系统设计、程序员未来、MBTI等话题
+head:
+  - - meta
+    - name: keywords
+      content: 深度赋智面试,MetaGPT,CEO面试,AI编程,系统设计,开源
+---
+
 # CEO面
 
 > 日期：2025.11.12

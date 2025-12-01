@@ -1,3 +1,12 @@
+---
+title: 安菲翁二面+CEO面 - AI语音创业公司面试经验
+description: 2025年安菲翁AI语音创业公司技术面+CEO面试经验，包含HTTP/HTTPS、TCP握手、AI音频Demo开发等面试题，附前置编程任务
+head:
+  - - meta
+    - name: keywords
+      content: 安菲翁面试,AI语音,CEO面试,HTTP,TCP,AI编程
+---
+
 # 二面+CEO面
 
 > 日期：2025.10.29

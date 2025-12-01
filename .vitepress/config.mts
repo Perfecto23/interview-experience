@@ -16,7 +16,25 @@ export default defineConfig({
   },
 
   head: [
-    ['meta', { name: 'theme-color', content: '#3c8772' }],
+    // 基础 Meta
+    ['meta', { name: 'theme-color', content: '#f97316' }],
+    ['meta', { name: 'keywords', content: '前端面试,面经,字节跳动,腾讯,面试题,前端开发,Vue,React,JavaScript,面试经验,校招,社招' }],
+    ['meta', { name: 'author', content: '柯芃丞' }],
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    
+    // Open Graph
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:locale', content: 'zh_CN' }],
+    ['meta', { property: 'og:site_name', content: '柯芃丞的面经记录' }],
+    ['meta', { property: 'og:image', content: 'https://interview-experience.itmirror.top/logo_light.svg' }],
+    ['meta', { property: 'og:url', content: 'https://interview-experience.itmirror.top/' }],
+    
+    // Twitter Card
+    ['meta', { name: 'twitter:card', content: 'summary' }],
+    ['meta', { name: 'twitter:image', content: 'https://interview-experience.itmirror.top/logo_light.svg' }],
+    
+    // DNS 预解析
+    ['link', { rel: 'dns-prefetch', href: '//blog.itmirror.top' }],
   ],
 
   themeConfig: {

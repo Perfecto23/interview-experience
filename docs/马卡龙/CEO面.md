@@ -1,3 +1,12 @@
+---
+title: 马卡龙CEO面 - AI Agent创业公司面试经验
+description: 2025年马卡龙AI Agent创业公司CEO面试经验，讨论职业发展规划、优缺点自评、团队协作、理想工作日等话题
+head:
+  - - meta
+    - name: keywords
+      content: 马卡龙面试,CEO面试,AI Agent,创业公司,职业规划
+---
+
 # CEO面
 
 > 日期：2025.11.01

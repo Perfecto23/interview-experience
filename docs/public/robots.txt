@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://interview-experience.itmirror.top/sitemap.xml
+
+# 禁止爬取资源目录
+Disallow: /assets/chunks/
+
